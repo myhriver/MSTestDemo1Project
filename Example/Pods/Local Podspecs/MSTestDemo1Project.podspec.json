@@ -1,0 +1,22 @@
+{
+  "name": "MSTestDemo1Project",
+  "version": "0.1.0",
+  "summary": "A short description of MSTestDemo1Project.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mayh666/MSTestDemo1Project",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mayh666": "409221027@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/mayh666/MSTestDemo1Project.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MSTestDemo1Project/Classes/**/*"
+}

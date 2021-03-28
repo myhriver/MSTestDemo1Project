@@ -1,0 +1,6 @@
+framework module MSTestDemo1Project {
+  umbrella header "MSTestDemo1Project-umbrella.h"
+
+  export *
+  module * { export * }
+}

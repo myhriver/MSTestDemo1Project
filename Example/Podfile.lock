@@ -1,0 +1,16 @@
+PODS:
+  - MSTestDemo1Project (0.1.0)
+
+DEPENDENCIES:
+  - MSTestDemo1Project (from `../`)
+
+EXTERNAL SOURCES:
+  MSTestDemo1Project:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MSTestDemo1Project: 3e6feddebc550691a42829fb7a06380c7b20b203
+
+PODFILE CHECKSUM: 797764a37a3ad7ff968dff8a2f3a5300d76b3ce6
+
+COCOAPODS: 1.9.3
